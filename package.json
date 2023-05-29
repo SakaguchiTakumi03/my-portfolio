@@ -1,0 +1,24 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "私のポートフォリオです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakaguchiTakumi03/my-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakaguchiTakumi03/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/SakaguchiTakumi03/my-portfolio#readme",
+  "devDependencies": {
+    "return": "^1.0.0",
+    "typescript": "^5.0.4"
+  }
+}
